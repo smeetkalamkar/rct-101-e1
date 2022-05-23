@@ -1,7 +1,15 @@
 .tasks {
   /* sample */
+  width: 400px;
+  min-height: 500px;
+  
+  margin: auto;
+  margin-left: 550px;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 
 .empty {
   /* sample */
 }
+
+
